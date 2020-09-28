@@ -1,9 +1,9 @@
 ### Hey stranger! 👋
 
-- 💻 I’m an Android Developer at **[Appetiser](https://appetiser.com.au/)**
-- 📖 I’m currently learning **Kotlin Coroutines**
-- 📫 How to reach me: [Email](limchiuarth@gmail.com), [LinkedIn](https://www.linkedin.com/in/arthlimchiu/)
-- 😂 Fun fact: I love video games and greasy foods 🎮 🍔 🍕 🥓
+- 💻  I’m an Android Developer at **[Appetiser](https://appetiser.com.au/)**
+- 📖  I’m currently learning **Kotlin Coroutines**
+- 📫  How to reach me: [Email](limchiuarth@gmail.com), [LinkedIn](https://www.linkedin.com/in/arthlimchiu/)
+- 😂  Fun fact: I love video games and greasy foods 🎮 🍔 🍕 🥓
 
 ![](https://komarev.com/ghpvc/?username=arthlimchiu&color=brightgreen&label=Views)
 
