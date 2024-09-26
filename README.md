@@ -1,7 +1,6 @@
 ### Hey stranger! 👋
 
-- 💻  I’m an Android Developer at **[Appetiser](https://appetiser.com.au/)**
-- 📖  I’m currently learning **Kotlin Coroutines**
+- 💻  I’m an Android Developer at **[ahead](https://www.ahead-app.com/)**
 - 🖊️  I also write Android tutorials at **[arthlimchiu.com](https://www.arthlimchiu.com/)**
 - 📫  How to reach me: [Email](limchiuarth@gmail.com), [LinkedIn](https://www.linkedin.com/in/arthlimchiu/)
 - 😂  Fun fact: I love video games and greasy foods 🎮 🍔 🍕 🥓
