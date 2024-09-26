@@ -1,6 +1,6 @@
-### Hey stranger! 👋
+### Hey there! 👋
 
-- 💻  I’m an Android Developer at **[ahead](https://www.ahead-app.com/)**
+- 💻  I’m a Senior Android Engineer at **[ahead](https://www.ahead-app.com/)**
 - 🖊️  I also write Android tutorials at **[arthlimchiu.com](https://www.arthlimchiu.com/)**
 - 📫  How to reach me: [Email](limchiuarth@gmail.com), [LinkedIn](https://www.linkedin.com/in/arthlimchiu/)
 - 😂  Fun fact: I love video games and greasy foods 🎮 🍔 🍕 🥓
