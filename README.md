@@ -7,6 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=arthlimchiu&color=brightgreen&label=Views)
 
+<!---
 ![Arth Limchiu's github stats](https://github-readme-stats.vercel.app/api?username=arthlimchiu&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthlimchiu&layout=compact&theme=dark)
